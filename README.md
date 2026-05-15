@@ -26,7 +26,7 @@ unsloth-inference/
 
 ```bash
 # 단일 이미지
-python inference.py --image ../image/gas.png
+python inference.py --image ./image/gas.png
 
 # 여러 이미지 한 번에 처리
 python inference.py --image ./electric.jpg ./gas.png ./transport.png
