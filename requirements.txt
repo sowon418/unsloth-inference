@@ -1,0 +1,6 @@
+unsloth[cu124]>=2025.3.0
+torch>=2.3.0
+torchvision
+pillow
+qwen-vl-utils
+transformers>=4.45.0
